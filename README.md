@@ -24,10 +24,10 @@
 ### 4. SKILL 
 ***
 - Language 
-<p> HTML CSS Javascript JS c++ Linux Python Mysql
+   <p> HTML CSS Javascript JS c++ Linux Python Mysql
 
 - Programing 
-<p>Photoshop UX UI android 
+   <p>Photoshop UX UI android 
 
 ### 5. 자격증
 ***
