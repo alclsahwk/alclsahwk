@@ -23,10 +23,10 @@
 
 ### 4. SKILL 
 ***
-* Language <\n>
+* Language -
   HTML CSS Javascript JS c++ Linux Python Mysql
 
-* Programing
+* Programing - 
   Photoshop UX UI android 
 
 ### 5. 자격증
