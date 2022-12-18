@@ -8,12 +8,12 @@
 
 ### 2. 학력 사항🎓
 ***
- **안산대학교, 대한민국**, 2020-2022, IT응용보안과, 학사 졸업
- **한세대학교, 대한민국**, 2022-2024, ICT융합학과, 학사 졸업
+* **안산대학교, 대한민국**, 2020-2022, IT응용보안과, 학사 졸업
+* **한세대학교, 대한민국**, 2022-2024, ICT융합학과, 학사 졸업
 
 ### 3. 프로젝트
 ***
-  2020. 05 Javascript 자판기, 지뢰찾기 제작
+*  2020. 05 Javascript 자판기, 지뢰찾기 제작
   2020. 09 Linux 게임 제작
   2021. 06 UX,UI 예매 어플 앱 디자인 
   2021. 08 android 다이어리 앱 제작
@@ -23,12 +23,12 @@
 
 ### 4. SKILL 
 ***
-Language
-HTML CSS Javascript JS c++ Linux Python Mysql
+* Language
+  HTML CSS Javascript JS c++ Linux Python Mysql
 
-Programing
-Photoshop UX UI android 
+* Programing
+  Photoshop UX UI android 
 
 ### 5. 자격증
 ***
- 정보처리기사
+* 정보처리기사
