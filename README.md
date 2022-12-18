@@ -23,7 +23,7 @@
 
 ### 4. SKILL 
 ***
-* Language
+* Language <\n>
   HTML CSS Javascript JS c++ Linux Python Mysql
 
 * Programing
