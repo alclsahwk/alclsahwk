@@ -13,6 +13,7 @@
 
 ### 3. 프로젝트📑
 ***
+* <style=flat&logo=Conda-Forge&logoColor=white" />
 * <p fontcolor:#1E90FF"> 2020. 09 Linux 우주 행성 피하기 게임 제작</p>
 * <p> 2021. 06 UX,UI 예매 어플 앱 디자인 
 * <p> 2021. 08 android 다이어리 앱 제작
