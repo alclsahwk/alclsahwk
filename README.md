@@ -13,7 +13,7 @@
 
 ### 3. 프로젝트📑
 ***
-*  <img src="https://img.shields.io/badge/TypeScript-우주행성 피하기?style=flat&logo=TypeScript&logoColor=white"/>
+* <p> <우주행성피하기-#1E90FF?style=flat&logo=React&logoColor=white"/>
 * <p> 2020. 09 Linux 우주 행성 피하기 게임 제작>
 * <p> 2021. 06 UX,UI 예매 어플 앱 디자인 
 * <p> 2021. 08 android 다이어리 앱 제작
